@@ -9,7 +9,7 @@ Private Sub CmdOk_Click()
    Dim filtro As String
    'Dim statuscartao As String
    
-   vlsTabela = "View_SMS_Agil"
+   vlsTabela = "minhaview"
    filtro = ""
    
    'Filtrando pela faixa etária
